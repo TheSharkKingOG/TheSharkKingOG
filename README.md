@@ -10,11 +10,11 @@
 - ⚡ Fun fact: I've built 42 computers so far!  
 
 ### Profile Overview
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSharkKing&theme=default)](https://github.com/TheSharkKing)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSharkKingOG&theme=default)](https://github.com/TheSharkKingOG)
 
 ### Repositories by Language
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheSharkKing&theme=default)](https://github.com/TheSharkKing) 
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheSharkKingOG&theme=default)](https://github.com/TheSharkKingOG) 
 ---
 
 ## Visitor Count
-[![Visitor Count](https://profile-counter.glitch.me/TheSharkKing/count.svg)](https://github.com/TheSharkKing)
+[![Visitor Count](https://profile-counter.glitch.me/TheSharkKing/count.svg)](https://github.com/TheSharkKingOG)
